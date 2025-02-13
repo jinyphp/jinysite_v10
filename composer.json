@@ -1,10 +1,10 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "jiny/jinysite",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "The skeleton application for JinySite",
     "keywords": [
-        "laravel",
+        "jinyphp",
         "framework"
     ],
     "license": "MIT",
